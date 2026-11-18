@@ -1,0 +1,17 @@
+## Pages
+- [About | NetAISystems](/about): NetAISystems is a technology and digital solutions company helping businesses build, automate and improve their digital operations through AI automation, software, cloud, business systems and creative technology.
+- [AI Automation & Agentic Engineering | NetAISystems](/services/ai-automation): AI agents, knowledge assistants, voice agents and workflow automation built around defined business processes.
+- [AI Automation Demos | NetAISystems](/demo): Experience AI in action. Explore how NetAISystems transforms businesses with intelligent automation, RAG chatbots, and real-world AI agent demos.
+- [CGI, 3D Animation & VFX | NetAISystems](/services/cgi-3d): 3D modelling, animation, product visualisation, architectural visuals and CGI production.
+- [CRM, ERP & Business Systems | NetAISystems](/services/crm-erp): Custom CRM, ERP and business management systems that bring customers, operations and reporting together.
+- [DevOps & Cloud Engineering | NetAISystems](/services/devops-cloud): AWS infrastructure, containerisation, deployment pipelines, monitoring and cloud migration.
+- [Industries | NetAISystems](/industries): How NetAISystems capabilities apply to technology and SaaS, professional services, real estate, healthcare, construction, ecommerce and recruitment.
+- [NetAISystems — Technology & Digital Solutions Agency](/): NetAISystems builds the technology behind better businesses: AI automation, web and software development, DevOps and cloud, CRM and ERP systems, CGI and UI/UX design.
+- [Products | NetAISystems](/products): ZodAgent is an AI-powered ERP system by NetAISystems, built to help businesses manage and streamline operations through one centralized platform.
+- [RAG Chatbot Demo | NetAISystems](/rag-chatbot-demo): Experience the power of a RAG Chatbot. Discover how NetAISystems retrieves, refines, and delivers accurate AI responses using your private business data.
+- [Services | NetAISystems](/services): Explore the six NetAISystems service divisions: AI automation and agentic engineering, web and software development, DevOps and cloud, CRM and ERP systems, CGI and 3D, and UI/UX design.
+- [Start Your Project | NetAISystems](/start-project): Tell NetAISystems about your project. Share your business, budget and requirements and our team will review them and get back to you.
+- [UI/UX & Creative Design | NetAISystems](/services/ui-ux-design): UI/UX design, prototyping, design systems, brand identity and presentation design.
+- [Web & Software Development | NetAISystems](/services/web-development): Business websites, web applications, SaaS products and custom software built around real business requirements.
+- [Work | NetAISystems](/work): Genuine NetAISystems projects: ZodAgent, our AI-powered ERP system, and live demonstrations of AI agents, workflow automation and retrieval-based assistants.
+- [ZodAgent — AI-Powered ERP | NetAISystems](/zodagent): ZodAgent is an AI-powered ERP system by NetAISystems, designed to help businesses manage and streamline operations through one intelligent, centralized platform.

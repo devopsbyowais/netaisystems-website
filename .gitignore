@@ -1,0 +1,52 @@
+# Files matched here are not saved with the project and are not published with the site.
+# The platform ignores node_modules, build output, PocketBase data and its own archives even if
+# their lines are removed. Add only what can be regenerated: tool installs, caches, test reports, logs.
+node_modules/
+dist/
+apps/pocketbase/pb_data/
+apps/pocketbase/pocketbase
+vault/sessions/
+vault/temp/SESSION_JOURNAL.md
+export.zip
+app.tar.gz
+dist.tar.gz
+.*.upload-tmp
+.cache/
+.lh-tools/
+**/ms-playwright/
+**/pw-browsers/
+playwright-report/
+test-results/
+coverage/
+*.log
+
+# Local environment files and secrets (never commit)
+.env
+.env.local
+.env.*
+!.env.example
+*.env
+credentials
+credentials.*
+*credentials.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+id_rsa*
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+
+# Editor / cache files
+.vscode/
+.idea/
+*.swp
+*.swo
