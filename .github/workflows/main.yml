@@ -29,8 +29,16 @@ jobs:
       - name: Install dependencies
         run: bun install
 
-      - name: Build website
-        run: bun run build
+      - name: Build website directly
+        run: |
+          cd apps/web
+          bun run build
+
+      - name: Verify build output
+        run: |
+          echo "Checking build output..."
+          ls -la dist/apps/web
+          test -f dist/apps/web/index.html
 
       - name: Upload website artifact
         uses: actions/upload-pages-artifact@v3
